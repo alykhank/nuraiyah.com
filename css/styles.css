@@ -1,0 +1,28 @@
+a {
+	color: rgb(38,121,219);
+}
+
+.navbar-container {
+	width: 6em;
+	margin: auto;
+}
+
+.navbar {
+	margin: 0;
+	font-size: 1.5em;
+	text-transform: lowercase;
+}
+
+.nav > li > a {
+	color: #333;
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.nav > li > a:hover {
+	color: rgb(38,121,219);
+	background: none;
+}
+
+.title {
+	font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
