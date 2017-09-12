@@ -20,7 +20,7 @@ a {
 
 .nav > li > a:hover {
   color: rgb(38,121,219);
-  background: none;
+  text-decoration: none;
 }
 
 .title {
